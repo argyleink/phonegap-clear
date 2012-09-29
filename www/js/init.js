@@ -13,7 +13,7 @@ $(function(){
 		window.globalDrag = false;
 	});
 
-	//app.initialize();
+	app.initialize();
     
     // grab json
     app.renderList( app.getNerds() );
